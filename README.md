@@ -35,3 +35,4 @@
 ---
 
 Создано **PrekCompany**
+[![Перейти на сайт](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://lunar-obsidian.vercel.app/)
